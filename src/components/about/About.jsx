@@ -78,7 +78,7 @@ const About = () => {
             <img
               className="w-full h-auto"
               layout="responsive"
-              src="https://github-readme-stats.vercel.app/api/pin?username=sumanshrestha14&repo=portfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FEFE5B&text_bold=false&icon_color=FFFFFF&description_lines_count=2"
+              src="https://api/pin?username=SumanShrestha14&repo=portfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FEFE5B&text_bold=false&icon_color=FFFFFF&description_lines_count=2"
               alt="Portfolio Repo"
               loading="lazy"
             />
