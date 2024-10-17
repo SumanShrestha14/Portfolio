@@ -12,7 +12,7 @@ From a young age, I’ve been captivated by the possibilities that technology of
 
 Check out my portfolio👇: <br />
 
-["Suman Shrestha"](https://sumanshrestha.vercel.app)
+[Suman Shrestha](https://sumanshrestha.vercel.app)
 <br />
 
 ---
